@@ -1,0 +1,12 @@
+{
+    "AutoCreate" : { "createClientSide" : true },
+    "DisplayName" : {
+        "name" : "Resurface"
+    },
+
+    "TimedMusicTrigger" : {
+        "dailyStart" : 0.15,
+        "dailyEnd" : 0.35,
+        "assetUri" : "Resurface"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "AutoCreate" : { "createClientSide" : true },
+    "DisplayName" : {
+        "name" : "Sunset"
+    },
+
+    "TimedMusicTrigger" : {
+        "dailyStart" : 0.65,
+        "dailyEnd" : 0.85,
+        "assetUri" : "Sunset"
+    }
+}
