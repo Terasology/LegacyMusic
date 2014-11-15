@@ -4,6 +4,11 @@
     "author" : "Various Authors",
     "displayName" : "Legacy Music",
     "description" : "A collection of legacy music assets",
-    "dependencies" : [],
+    "dependencies" : [
+        {
+            "id" : "MusicDirector",
+            "minVersion" : "0.2.0"
+        }
+    ],
     "isServerSideOnly" : false
 }
