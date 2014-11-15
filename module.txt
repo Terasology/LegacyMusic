@@ -1,0 +1,9 @@
+{
+    "id" : "LegacyMusic",
+    "version" : "0.1.0",
+    "author" : "Various Authors",
+    "displayName" : "Legacy Music",
+    "description" : "A collection of legacy music assets",
+    "dependencies" : [],
+    "isServerSideOnly" : false
+}

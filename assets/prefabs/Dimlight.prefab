@@ -1,0 +1,12 @@
+{
+    "AutoCreate" : { "createClientSide" : true },
+    "DisplayName" : {
+        "name" : "Dimlight"
+    },
+
+    "TimedMusicTrigger" : {
+        "dailyStart" : 0.85,
+        "dailyEnd" : 1.00,
+        "assetUri" : "Dimlight"
+    }
+}

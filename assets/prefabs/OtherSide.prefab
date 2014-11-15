@@ -1,0 +1,12 @@
+{
+    "AutoCreate" : { "createClientSide" : true },
+    "DisplayName" : {
+        "name" : "Other Side"
+    },
+
+    "TimedMusicTrigger" : {
+        "dailyStart" : 0.00,
+        "dailyEnd" : 0.15,
+        "assetUri" : "OtherSide"
+    }
+}

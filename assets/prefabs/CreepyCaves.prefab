@@ -1,0 +1,12 @@
+{
+    "AutoCreate" : { "createClientSide" : true },
+    "DisplayName" : {
+        "name" : "Creepy Caves"
+    },
+
+    "TimedMusicTrigger" : {
+        "dailyStart" : 0.00,
+        "dailyEnd" : 0.15,
+        "assetUri" : "CreepyCaves"
+    }
+}

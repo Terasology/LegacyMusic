@@ -1,0 +1,12 @@
+{
+    "AutoCreate" : { "createClientSide" : true },
+    "DisplayName" : {
+        "name" : "Afternoon"
+    },
+
+    "TimedMusicTrigger" : {
+        "dailyStart" : 0.50,
+        "dailyEnd" : 0.65,
+        "assetUri" : "Afternoon"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "AutoCreate" : { "createClientSide" : true },
+    "DisplayName" : {
+        "name" : "Spatial Winds"
+    },
+
+    "TimedMusicTrigger" : {
+        "dailyStart" : 0.35,
+        "dailyEnd" : 0.50,
+        "assetUri" : "SpatialWinds"
+    }
+}
