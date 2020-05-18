@@ -1,14 +1,12 @@
 {
-    "id" : "LegacyMusic",
-    "version" : "0.1.1-SNAPSHOT",
-    "author" : "Various Authors",
-    "displayName" : "Legacy Music",
-    "description" : "A collection of legacy music assets",
-    "dependencies" : [
-        {
-            "id" : "MusicDirector",
-            "minVersion" : "0.2.0"
-        }
+    "id": "LegacyMusic",
+    "version": "1.0.0",
+    "author": "Various Authors",
+    "displayName": "Legacy Music",
+    "description": "A collection of legacy music assets",
+    "dependencies": [
+        { "id": "MusicDirector", "minVersion": "1.0.0" }
     ],
-    "isServerSideOnly" : false
+    "isServerSideOnly": false,
+    "isAsset": true
 }
